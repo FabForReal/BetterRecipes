@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C ",
+    "C# ",
+    "   "
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:brick"
+    },
+    "C":
+    {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:bricks",
+    "count": 4
+  }
+}
