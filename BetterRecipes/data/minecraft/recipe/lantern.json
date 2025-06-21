@@ -1,0 +1,20 @@
+{
+	"result": {
+		"id": "minecraft:lantern",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		" # ",
+		"#i#",
+		" # "
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:iron_nugget"
+		},
+		"i": {
+			"item": "minecraft:torch"
+		}
+	}
+}
