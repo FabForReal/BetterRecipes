@@ -1,0 +1,15 @@
+{
+	"result": {
+		"id": "minecraft:calcite",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:tuff"
+		}
+	}
+}
